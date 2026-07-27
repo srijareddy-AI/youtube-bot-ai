@@ -3,7 +3,7 @@
 A fully open-source AI-powered automated YouTube content generation pipeline built with local AI models — no paid APIs, no OpenAI.
 
 ## 🎬 Demo
-[Add your YouTube/Loom link here]
+[Watch the demo](https://www.youtube.com/watch?v=9Pw3vooBoeE)
 
 ## 🚀 What It Does
 - Generates video scripts using Ollama + Llama3
